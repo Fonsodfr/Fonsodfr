@@ -1,4 +1,4 @@
-## Hi, I'm Fonso De Frutos 🎛️
+## Hi, I'm Fonso De Frutos 
 
 Music producer from Tenerife, Spain. I started making tracks in **1995 on FastTracker**,
 and three decades later I'm writing the audio tools I always wanted in **C++ and JUCE**.
